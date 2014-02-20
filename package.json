@@ -1,14 +1,15 @@
 {
-  "name": "sort",
+  "name": "jb55-sort",
   "description": "Sort DOM elements",
   "version": "0.0.3",
-  "keywords": ["sort", "dom", "sorting", "element", "elements", "utility"],
+  "keywords": [
+    "sort",
+    "dom",
+    "sorting",
+    "element",
+    "elements",
+    "utility"
+  ],
   "dependencies": {},
-  "development": {},
-  "license": "MIT",
-  "component": {
-    "scripts": {
-      "sort/index.js": "index.js"
-    }
-  }
+  "license": "MIT"
 }
